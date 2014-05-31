@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2066D85B-42C4-4D2A-91AE-F0E26CA8EA66</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Wild Turkey</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E21C3938-3E9C-44C6-97A7-BD22B72E0B50</key>
+		<string>https://github.com/ksinghal/WildTurkey.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Wild Turkey.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E21C3938-3E9C-44C6-97A7-BD22B72E0B50</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ksinghal/WildTurkey.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E21C3938-3E9C-44C6-97A7-BD22B72E0B50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E21C3938-3E9C-44C6-97A7-BD22B72E0B50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Wild Turkey</string>
+		</dict>
+	</array>
+</dict>
+</plist>
